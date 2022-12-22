@@ -1,0 +1,246 @@
+#wrap{
+    width: 100%; 
+    height: 50px; 
+    margin: 5px;
+    z-index: 1; 
+    position: relative; 
+    background-color:#ffffff00;
+    padding-right: 5px;
+    font-size: 22px;
+    letter-spacing: 0.rem;
+    padding-left: 15px;
+   
+              
+   
+    
+   
+   
+   
+    
+    }
+    .navbar{
+      height: auto;
+      padding: 5px;
+      margin: 0;
+      position: relative; 
+      display: inline-block;
+      
+              
+
+     
+      
+      
+      
+      }
+      .navbar li {
+        height: auto;
+        width: 135.8px; 
+        float: left;  
+        text-align: center; 
+        list-style: none;   
+        padding: 0;
+        background-color: #0277bd;
+        border-radius: 10px;
+        margin-top: 10px;
+        margin-right:50px;
+        margin-left: 5px;
+        padding-left: 38px;
+        padding-right: 38px;
+        font-size:18px ;      
+       text-align: center;
+       text-decoration: none;
+      
+       
+                      
+        
+        
+                    
+        
+        
+        }
+        .navbar a{							
+          padding: 15px 0;  
+          
+          text-decoration: none; 
+          color: white; 
+          display:block;
+         transition: all 1s ease;
+          
+          }
+          .navbar li:hover, a:hover {
+            background-color:#0277bd;
+            
+           
+            
+            
+            
+
+           
+            
+            }
+            .navbar li ul{
+              display: none;
+              height: auto;									
+              margin: 0; 
+              padding: 0; 
+              padding-left: 0;
+              list-style:disk -15px;
+              text-align: justify;
+              text-decoration: none;
+              
+              }
+              
+              .navbar li:hover ul{
+              display: inline-block;
+              
+                
+                
+                
+               
+              }
+              .navbar li ul li{
+                background-color: #0277bd;
+                margin: 5px;
+                padding-left: 0px;
+                padding-right:15px ;
+                text-decoration: none;
+                font-weight: 700;
+                white-space: nowrap;
+                 list-style:disc;
+                 position: relative;
+                 line-height: 2px;
+               
+              
+                 
+                }
+                
+                  .navbar li ul li a:hover{
+                  background-color: gray00;
+                  
+                  
+                  
+                
+                }
+                h1{
+                    position: relative;
+                    display: inline-block;
+                    margin-top: 150px;
+                    margin-left: 580px;
+                    
+                   
+                    
+                 }
+                 span{
+                    position:absolute;
+                    display: block;
+                    margin-top: 100px;
+                    margin-left:590px ;
+                    font-size: 25px;
+                 }
+                 img{
+                    position: absolute;
+                    display: block;
+                    margin-top:300px ;
+                    margin-left: 540px;
+                 }
+                 #text{
+                    position: absolute;
+                    display: block;
+                    margin-top: 1010px;
+                    margin-left: 590px;
+                 }
+                 #list{
+                    position: absolute;
+                    display: block;
+                    margin-top: 1110px;
+                    margin-left: 550px;
+                 }
+                 #list1{
+                    position: absolute;
+                    display: block;
+                    margin-top: 1440px;
+                    margin-left: 580px;
+                 }
+                 #text2{
+                    position: absolute;
+                    display: block;
+                    margin-top: 1520px;
+                    margin-left: 620px;
+                 }
+                 #er{
+                    position: absolute;
+                    display: block;
+                    margin-top: 1620px;
+                    
+                    background-repeat: no-repeat;
+                 }
+                 #text3{
+                    position: absolute;
+                    display: block;
+                    margin-top: 2005px;
+                    margin-left: 620px;
+                 }
+                 #text4{
+                    position: absolute;
+                    display: block;
+                    margin-top: 2060px;
+                    margin-left: 620px;
+                 }
+                 #mt{
+                    position: absolute;
+                    display: block;
+                    margin-top: 2350px;
+                    margin-left: 540px;
+                    background-repeat: no-repeat;
+                 }
+                 #text5{
+                    position: absolute;
+                    display: block;
+                    margin-top: 2860px;
+                    margin-left: 680px;
+                    
+                 }
+                 #text6{
+                    position: absolute;
+                    display: block;
+                    margin-top: 2960px;
+                    margin-left: 630px;
+                 }
+                 #text7{
+                    position: absolute;
+                    display: block;
+                    margin-top: 3090px;
+                    margin-left: 630px;
+                    
+                 }
+                 #text8{
+                    position: absolute;
+                    display: block;
+                    margin-top: 3310px;
+                    margin-left: 630px;
+                 }
+                 #bt{
+                  position: absolute;
+                  display: block;
+                  margin-top: -60px;
+                  margin-left:380px ;
+                  color: white;
+                  background-color: #0277bd;
+                  border-radius: 18px;
+                  padding-left: 15px;
+                  padding-right: 15px;
+                  padding-bottom: 10px;
+                  padding-top:10px ;
+                  font-size: 24px;
+                  
+
+                  
+                 }
+                 #bt a{
+                  color: white;
+                  text-decoration: none;
+                 }
+                 span a:hover{
+                  background-color: #ffffff00;
+                  
+                 }
